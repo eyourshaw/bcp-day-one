@@ -27,3 +27,9 @@ var x = 1 + 2;
 </ul>
 ```
 
+Header1 | Header2
+---|---
+sox|20
+nats|11
+
+
